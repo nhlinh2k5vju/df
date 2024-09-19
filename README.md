@@ -2,7 +2,7 @@
 
 ## GROUP <123>
 
-- Member 1: <Hai-Linh>
+- Member 1: Hai-Linh
 
 ## Starting server
 
